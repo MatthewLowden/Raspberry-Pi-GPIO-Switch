@@ -21,7 +21,7 @@ import be.doubleyouit.raspberry.gpio.impl.GpioGatewayImpl;
 
 public class SwitchMyPi {
 	
-	// This GPIO Sample code uses PIN3 and PIN6 on the Raspberry Pi GPOI header.
+	// This GPIO Sample code uses PIN3 and PIN6 on the Raspberry Pi GPIO header.
 	// PIN3 is GPIO 0, which is pulled up.
 	// PIN6 is GND (Ground).
 	// Connecting PIN3 and PIN6 results in PIN3 changing from high (true) to low (false). 
